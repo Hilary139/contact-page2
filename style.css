@@ -12,7 +12,7 @@ body{
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    width: 300px;
+    width: 260px;
     padding: 50px;
     margin: 8% auto;
 }
@@ -41,13 +41,6 @@ input{
     
 }
 
-.or{
-
-    color: black;
-    margin-top: -250px;
-    margin-bottom: 10px;
-    word-spacing: 10px;
-}
 
 textarea{
      background-image: linear-gradient(125deg,#fff,#fff, #BFC1D9,#C2F4F9 );
@@ -66,9 +59,9 @@ textarea{
     text-align: center;
     float:center;
     size: 30px;
+    margin-left: 40px;
     text-transform: uppercase;
     padding: 3px;
-    margin-top: -10px;
     width: 150px;
     height: 30px;
     background-color: #21afde;
@@ -86,7 +79,7 @@ p{
     text-align: center;
     margin-top: -20px;
     font-size: 16px;
-    margin-right: 57px;
+    margin-right: 20px;
     color:#fff;
     text-transform: capitalize;
 }
